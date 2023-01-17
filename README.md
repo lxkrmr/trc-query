@@ -11,6 +11,7 @@ To verify this behaviour one can use this simple Nest.JS application.
 1. start the application via `npm run start:dev`
 2. use `requests.http` to fire a request against the GET, POST, PATCH, PUT and DELETE endpoint
 3. verify the response
+4. optional: open `AppController` to see that each endpoint using typed-rest-client to call another endpoint with a given query param.
 
 If type-rest-client supports query params for the given HTTP verb then one will get a response like this:
 
