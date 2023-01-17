@@ -1,0 +1,14 @@
+### get
+GET http://localhost:3000
+
+### post
+POST http://localhost:3000
+
+### patch
+PATCH http://localhost:3000
+
+### put
+PUT http://localhost:3000
+
+### delete
+DELETE http://localhost:3000
